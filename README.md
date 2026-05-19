@@ -127,9 +127,3 @@ SpaceX --[works_with]--> NASA
 NASA --[targets]--> Moon
 ```
 
-## What's Next
-
-- [ ] Replace keyword search with FAISS vector similarity search
-- [ ] Add OpenAI LLM call for natural language answers
-- [ ] Load real documents instead of hardcoded strings
-- [ ] Add 3-hop graph traversal for deeper connections
